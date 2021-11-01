@@ -1,1 +1,1 @@
-Demo of the lesson
+包含课程demo代码及Homework
